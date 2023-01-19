@@ -1,0 +1,22 @@
+.problem-sentence {
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+.pending {
+    color: gray;
+}
+
+.correct {
+    color: green;
+    font-weight: 700;
+}
+
+.incorrect {
+    color: red;
+    font-weight: 700;
+}
+
+.incorrect-empty {
+    background-color: red;
+}
